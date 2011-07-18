@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/Grid.aspx" ctype="Workbench">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="24" Column="50" />
+      <File FileName="Models/GalleryImage.cs" Line="35" Column="3" />
+      <File FileName="Views/Web.config" Line="1" Column="1" />
+      <File FileName="Controllers/SyncController.cs" Line="1" Column="14" />
+      <File FileName="../Ketchup/src/Commands/Sync/SyncGetExtensions.cs" Line="30" Column="1" />
+      <File FileName="Global.asax.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HybridController.cs" Line="1" Column="14" />
+      <File FileName="../Ketchup/src/Commands/GetExtensions.cs" Line="18" Column="1" />
+      <File FileName="Views/Shared/Grid.aspx" Line="28" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
